@@ -83,6 +83,20 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "d8f7",
+      "title": "Cool dev",
+      "type": "Full-Time",
+      "location": "calgary, ab",
+      "description": "Cool devCool devCool devCool devCool devCool dev",
+      "salary": "$80K - 90K",
+      "company": {
+        "companyName": "my company",
+        "companyDescription": "cooling devs",
+        "contactEmail": "yoo@email.com",
+        "contactPhone": "123-456-7890"
+      }
     }
   ]
 }
