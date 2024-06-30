@@ -85,17 +85,17 @@
       }
     },
     {
-      "id": "d8f7",
-      "title": "Cool dev",
+      "id": "4aa9",
+      "title": "Test",
       "type": "Full-Time",
       "location": "calgary, ab",
-      "description": "Cool devCool devCool devCool devCool devCool dev",
-      "salary": "$80K - 90K",
+      "description": "test",
+      "salary": "Under $50K",
       "company": {
         "companyName": "my company",
-        "companyDescription": "cooling devs",
-        "contactEmail": "yoo@email.com",
-        "contactPhone": "123-456-7890"
+        "companyDescription": "gsfdgd",
+        "contactEmail": "email@gmail.com",
+        "contactPhone": "fds123"
       }
     }
   ]
